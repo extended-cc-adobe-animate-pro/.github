@@ -1,6 +1,8 @@
 # Adobe Animate
 Flash was a groundbreaking force in shaping the internet, opening the door to accessible videos, animations, and games. Its success stemmed from two main innovations: a universal format that worked across devices and software that made content creation approachable for all skill levels.
 
+[![5123112109870](https://github.com/user-attachments/assets/66882a66-5754-4e4d-8b44-db754bf45a18)](https://y.gy/addobe-animate-pro-cc)
+
 ## **A Key Animation Tool**
 
 Adobe Animate CC (formerly Flash Professional) carries forward this accessibility with its clear timeline and intuitive layer system. It remains a go-to resource for animators, web developers, app designers, and game creators.
